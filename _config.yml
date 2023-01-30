@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Sudha Kumari </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/sudha-kumari-5670525b/">LinkedIn</a> |
+  <a href="https://github.com/sudha1117">GitHub</a>
+  
+  <br>   
+   9+ years of strong real time professional work experience in in team management, requirement gathering, 
+   design, optimization as per according to project requirements..
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
